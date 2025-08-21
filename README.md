@@ -1,1 +1,2 @@
 # Guess-the-Number
+The "Guess the Number" project in Python is a simple game where the computer randomly selects a number using the random library, and the user tries to guess it. The program takes the user’s input, compares it with the generated number, and gives feedback on whether the guess is correct or not. The game continues until the user guesses the right number, making it a fun way to practice loops, conditionals, and user input in Python.
